@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# sensitive files
+ignored_assets/
+
+# mac files
+.DS_Store
